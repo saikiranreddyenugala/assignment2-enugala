@@ -37,16 +37,16 @@ Places I recommend you to visit
 |----------|-------|------|
 | [Hyderabad](/images/hyderabad.jpg)| 120   | 300$ |
 | [Mumbai](/images/mumbai.jpg)   | 100   | 400$ |
-| [Chennai](/images/chennai.jpg)  | 120   | 350  |
+| [Chennai](/images/chennai.jpg)  | 120   | 350$  |
 | [Banglore](/images/banglore.jpg) | 120   | 500$ |
 
 ***
 
 #### Quotes
 
-> All our dreams can come true, if we have the courage to pursue them.
+> All our dreams can come true, if we have the courage to pursue them. * Walt Disney. *
 
-> The secret of getting ahead is getting started.
+> The secret of getting ahead is getting started. * Mark Twain*
 
 ***
 
@@ -72,7 +72,7 @@ int main() {
 }
 ```
 
-> Source<https://www.programiz.com/c-programming/examples/even-odd>
+> Source <https://www.programiz.com/c-programming/examples/even-odd>
 
 
 
