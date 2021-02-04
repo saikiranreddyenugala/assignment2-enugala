@@ -29,20 +29,20 @@ I love to make biryani and more than that.. I love eating biryani..
 
 ***
 
-###### Places to Visit.
+##### Places to Visit.
 
 Places I recommend you to visit
 
 | Location | Hours | Money|
 |----------|-------|------|
-| Hyderabad[hyd](/images/hyderabad.jpg)| 120   | 300$ |
-| Mumbai[mumbai])(/images/mumbai.jpg)   | 100   | 400$ |
-| Chennai[chennai](/images/chennai.jpg)  | 120   | 350  |
-| Banglore[banglore](/images/banglore.jpg) | 120   | 500$ |
+| [Hyderabad](/images/hyderabad.jpg)| 120   | 300$ |
+| [Mumbai](/images/mumbai.jpg)   | 100   | 400$ |
+| [Chennai](/images/chennai.jpg)  | 120   | 350  |
+| [Banglore](/images/banglore.jpg) | 120   | 500$ |
 
 ***
 
-##### Quotes
+#### Quotes
 
 > All our dreams can come true, if we have the courage to pursue them.
 
@@ -51,6 +51,29 @@ Places I recommend you to visit
 ***
 
 
-###### Code Fencing 
+#### Code Fencing 
+
+> C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.
+
+```
+    #include <stdio.h>
+int main() {
+    int num;
+    printf("Enter an integer: ");
+    scanf("%d", &num);
+
+    // True if num is perfectly divisible by 2
+    if(num % 2 == 0)
+        printf("%d is even.", num);
+    else
+        printf("%d is odd.", num);
+    
+    return 0;
+}
+```
+
+> Source<https://www.programiz.com/c-programming/examples/even-odd>
+
+
 
 
