@@ -26,3 +26,31 @@ I love to make biryani and more than that.. I love eating biryani..
 
 
 [Link to about me ](AboutMe.md)
+
+***
+
+###### Places to Visit.
+
+Places I recommend you to visit
+
+| Location | Hours | Money|
+|----------|-------|------|
+| Hyderabad[hyd](/images/hyderabad.jpg)| 120   | 300$ |
+| Mumbai[mumbai])(/images/mumbai.jpg)   | 100   | 400$ |
+| Chennai[chennai](/images/chennai.jpg)  | 120   | 350  |
+| Banglore[banglore](/images/banglore.jpg) | 120   | 500$ |
+
+***
+
+##### Quotes
+
+> All our dreams can come true, if we have the courage to pursue them.
+
+> The secret of getting ahead is getting started.
+
+***
+
+
+###### Code Fencing 
+
+
